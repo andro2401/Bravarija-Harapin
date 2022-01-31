@@ -130,6 +130,11 @@ a {
   text-transform: uppercase;
 }
 
+/*class to see which page is active*/
+.active {
+  font-weight: 700;
+}
+
 ul {
   list-style-type: none;
 }
